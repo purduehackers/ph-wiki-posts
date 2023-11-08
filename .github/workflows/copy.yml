@@ -1,5 +1,5 @@
 yaml
-name: copy post to database 
+name: copy post to database
 on:
   push:
     branches:
