@@ -9,11 +9,6 @@ on:
 jobs:
   copy:
     runs-on: ubuntu-latest
-    env: |
-      PH_WIKI_LOADER_PRIVATE_KEY: ${{ secrets.PH_WIKI_LOADER_PRIVATE_KEY }}
-      APP_ID: ${{ secrets.APP_ID }}
-      APP_INSTALLATION_ID: ${{ secrets.APP_INSTALLATION_ID }}
-      MONGODB_URI: ${{ secrets.MONGODB_URI }}
     steps:
     - name: Use Node.js
       uses: actions/setup-node@v1
@@ -25,6 +20,11 @@ jobs:
         repository: purduehackers/ph-wiki-post-loader
         path: ./ph-wiki-post-loader
     - name: Install deps and run
+      secrets: |
+        PH_WIKI_LOADER_PRIVATE_KEY: ${{ secrets.PH_WIKI_LOADER_PRIVATE_KEY }}
+        APP_ID: ${{ secrets.APP_ID }}
+        APP_INSTALLATION_ID: ${{ secrets.APP_INSTALLATION_ID }}
+        MONGODB_URI: ${{ secrets.MONGODB_URI }}
       run: |
         cd ./ph-wiki-post-loader
         yarn install
