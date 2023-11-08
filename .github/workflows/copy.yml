@@ -23,7 +23,7 @@ jobs:
       env:
         PH_WIKI_LOADER_PRIVATE_KEY: ${{ secrets.PH_WIKI_LOADER_PRIVATE_KEY }}
         APP_ID: ${{ secrets.APP_ID }}
-        APP_INSTALLATION_ID: ${{ secrets.APP_INSTALLATION_ID }}
+        INSTALLATION_ID: ${{ secrets.APP_INSTALLATION_ID }}
         MONGODB_URI: ${{ secrets.MONGODB_URI }}
       run: |
         cd ./ph-wiki-post-loader
