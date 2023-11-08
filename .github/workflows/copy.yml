@@ -20,7 +20,7 @@ jobs:
         repository: purduehackers/ph-wiki-post-loader
         path: ./ph-wiki-post-loader
     - name: Install deps and run
-      secrets: |
+      env:
         PH_WIKI_LOADER_PRIVATE_KEY: ${{ secrets.PH_WIKI_LOADER_PRIVATE_KEY }}
         APP_ID: ${{ secrets.APP_ID }}
         APP_INSTALLATION_ID: ${{ secrets.APP_INSTALLATION_ID }}
