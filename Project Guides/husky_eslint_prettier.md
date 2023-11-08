@@ -10,13 +10,13 @@ yarn add --dev  --exact  prettier
 Create a file called ```.prettierrc.json``` where we will be storing our Prettier configuration. Copy paste the following code into this file.
 ```.prettierrc.json
 {  
-"trailingComma": "es5",  
-"bracketSpacing": true,  
-"printWidth": 80,  
-"tabWidth": 2,  
-"singleQuote": true,  
-"arrowParens": "always",  
-"semi": false  
+	"trailingComma": "es5",  
+	"bracketSpacing": true,  
+	"printWidth": 80,  
+	"tabWidth": 2,  
+	"singleQuote": true,  
+	"arrowParens": "always",  
+	"semi": false  
 }
 ```
 Create a file called ```.prettierignore``` where we will specify the files that we don’t want to format. Copy and paste the following code into this file.
@@ -34,13 +34,13 @@ Depending on how your NextJS project is set up, you might not have Eslint set up
 ```package.json
 ...  
 "scripts": {  
-...  
-"lint": "next lint --cache --fix"  
+	...  
+	"lint": "next lint --cache --fix"  
 },  
 ...
 ```
 Afterward, run the following command and you will be guided to set up eslint. A more detailed tutorial on how to set up eslint can be found [here](https://nextjs.org/docs/pages/building-your-application/configuring/eslint).
-```
+```terminal
 npm run lint
 ```
 Next we need to install ```eslint-config-prettier``` using the following command.
