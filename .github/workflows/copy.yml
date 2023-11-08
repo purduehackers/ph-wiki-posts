@@ -10,14 +10,18 @@ jobs:
   copy:
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v2
     - name: Use Node.js
       uses: actions/setup-node@v1
       with:
         node-version: '18.x'
-    - name: Run Yarn 
-      run: yarn
-    - name: Run tests
-      run: echo this is my first ci/cd pipeline
+    - name: Install external repo
+      uses: actions/checkout@v2
+      with:
+        repository: purduehackers/ph-wiki-post-loader
+        path: ./ph-wiki-post-loader
+    - name: Install deps
+      run: |
+        cd ./ph-wiki-post-loader
+        yarn install
+        yarn run start
 
