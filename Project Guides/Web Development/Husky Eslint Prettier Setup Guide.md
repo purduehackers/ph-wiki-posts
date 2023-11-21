@@ -1,3 +1,7 @@
+---
+tags: Web Development,Husky,Eslint,Prettier,NextJS,ExpressJS
+hidden: false
+---
 # Husky, Eslint, Prettier Setup Guide
 In this blog post, I will be going over how to set up Husky, Eslint, and Prettier in NextJS and ExpressJS projects.
 ## NextJS project:

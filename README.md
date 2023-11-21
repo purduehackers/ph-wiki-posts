@@ -1,1 +1,1 @@
-This is a repository were we 
+This is a repository were we put all our post in. However the actual data are stored on our MongoDB hosted on MongoDB Atlas.
