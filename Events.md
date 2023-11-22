@@ -5,6 +5,9 @@ tags:
   - workshops
   - hack_night
   - hammer_wars
+authors:
+  - oohwo
+archived: false
 ---
 # Overview
 Last Updated: 00/00/0000
