@@ -1,8 +1,7 @@
 ---
 tags:
   - organizers
-  - archived
-semester: Spring 2022
+archived: false
 ---
 # Overview
 Last Updated: 00/00/0000
