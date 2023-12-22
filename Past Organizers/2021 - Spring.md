@@ -25,55 +25,55 @@ Last Updated: 00/00/0000
     </thead>
     <tbody>
         <tr>
-            <th>Torin Hylan (President)</th>
+            <td>Torin Hylan (President)</td>
             <td>thylan@purdue.edu</td>
             <td>`torinh66#6434`</td>
             <td>TorinH66@gmail.com</td>
         </tr>
         <tr>
-            <th>Beatrice Williem (Treasurer)</th>
+            <td>Beatrice Williem (Treasurer)</td>
             <td>bwilliem@purdue.edu</td>
             <td>`Beatrice#2599`</td>
             <td>beat.wil105@gmail.com</td>
         </tr>
         <tr>
-            <th>Brianna McCaffrey</th>
+            <td>Brianna McCaffrey</td>
             <td>bmccaff@purdue.edu</td>
             <td>`Brianna McCaffrey#0848`</td>
             <td>bmccaffrey0830@gmail.com</td>
         </tr>
         <tr>
-            <th>Devin Qu</th>
+            <td>Devin Qu</td>
             <td>qud@purdue.edu</td>
             <td>`devinqu#6002`</td>
             <td>devinqu2002@gmail.com</td>
         </tr>
         <tr>
-            <th>Fenil Gala</th>
+            <td>Fenil Gala</td>
             <td>fgala@purdue.edu</td>
             <td>`King Leo#5724`</td>
             <td>leofenil1234@gmail.com</td>
         </tr>
         <tr>
-            <th>Matthew Stanciu</th>
+            <td>Matthew Stanciu</td>
             <td>mstanciu@purdue.edu</td>
             <td>`hewillyeah#1703`</td>
             <td>mattbstanciu@gmail.com</td>
         </tr>
         <tr>
-            <th>Mikail Khan</th>
+            <td>Mikail Khan</td>
             <td>khan348@purdue.edu</td>
             <td>`Fish#2121`</td>
             <td></td>
         </tr>
         <tr>
-            <th>Nikita Aggarwal</th>
+            <td>Nikita Aggarwal</td>
             <td>aggarw64@purdue.edu</td>
             <td>`nikitaaggarwal#5054`</td>
             <td>nikitaaggarwal777@gmail.com</td>
         </tr>
         <tr>
-            <th>Nivedha Kumar</th>
+            <td>Nivedha Kumar</td>
             <td>kumar502@purdue.edu</td>
             <td>`Nivedha#7394`</td>
             <td>to.nivedha75@gmail.com</td>
@@ -93,31 +93,31 @@ Last Updated: 00/00/0000
     </thead>
     <tbody>
         <tr>
-            <th>Rachel Sacdalan</th>
+            <td>Rachel Sacdalan</td>
             <td>rsacdala@purdue.edu</td>
             <td>`Oohwo#1324`</td>
             <td>rsacdalan00021@gmail.com</td>
         </tr>
         <tr>
-            <th>Angela Kim</th>
+            <td>Angela Kim</td>
             <td>kim2338@purdue.edu</td>
             <td>`Bbokka#8615`</td>
             <td>crm05319@gmail.com</td>
         </tr>
         <tr>
-            <th>Michelle (Mia) Geoffrey</th>
+            <td>Michelle (Mia) Geoffrey</td>
             <td>mgeoffra@purdue.edu</td>
             <td>`miachelle#6245`</td>
             <td></td>
         </tr>
         <tr>
-            <th>Miguel Penaloza</th>
+            <td>Miguel Penaloza</td>
             <td>mpenaloz@purdue.edu</td>
             <td>`Miguel Penaloza#1600`</td>
             <td>miguelpen02@gmail.com</td>
         </tr>
         <tr>
-            <th>Rishabh Pandey</th>
+            <td>Rishabh Pandey</td>
             <td>pandey65@purdue.edu</td>
             <td>`Rishabh#3751`</td>
             <td></td>
@@ -137,31 +137,31 @@ Last Updated: 00/00/0000
     </thead>
     <tbody>
         <tr>
-            <th>Evan Wang</th>
+            <td>Evan Wang</td>
             <td>wangej@purdue.edu</td>
             <td>`fuzzy_happy#6644`</td>
             <td>student.e.wang@gmail.com</td>
         </tr>
         <tr>
-            <th>Jiahui Huang</th>
+            <td>Jiahui Huang</td>
             <td>huan1681@purdue.edu</td>
             <td>`jia#1965`</td>
             <td>jiahuihuang208@gmail.com</td>
         </tr>
         <tr>
-            <th>Yeonseung &quot;Sean&quot; Choi</th>
+            <td>Yeonseung &quot;Sean&quot; Choi</td>
             <td>ysc@purdue.edu</td>
             <td>`534N#6075`</td>
             <td></td>
         </tr>
         <tr>
-            <th>Sruthi Koukuntla</th>
+            <td>Sruthi Koukuntla</td>
             <td>skoukunt@purdue.edu</td>
             <td>`Sruthi#8494`</td>
             <td></td>
         </tr>
         <tr>
-            <th>Yuka Nakamura</th>
+            <td>Yuka Nakamura</td>
             <td>ynakamu@purdue.edu</td>
             <td>`Yuka N.#5292`</td>
             <td>yuflower26@gmail.com</td>
@@ -181,31 +181,31 @@ Last Updated: 00/00/0000
     </thead>
     <tbody>
         <tr>
-            <th>Abhay Singh Thakur</th>
+            <td>Abhay Singh Thakur</td>
             <td>thakur12@purdue.edu</td>
             <td>`WYNPTS#9218`</td>
             <td>thakur22429s@gmail.com</td>
         </tr>
         <tr>
-            <th>Chi-Wei (Willy) Lien</th>
+            <td>Chi-Wei (Willy) Lien</td>
             <td>lien2@purdue.edu</td>
             <td>`magician3124#4265`</td>
             <td>crashingballoon@gmail.com</td>
         </tr>
         <tr>
-            <th>Edward Potapov</th>
+            <td>Edward Potapov</td>
             <td>epotapov@purdue.edu</td>
             <td>`edwarhead#7814`</td>
             <td>edwardpota@gmail.com</td>
         </tr>
         <tr>
-            <th>Pankaj Meghani</th>
+            <td>Pankaj Meghani</td>
             <td>pmeghani@purdue.edu</td>
             <td>`Pankaj#2150`</td>
             <td></td>
         </tr>
         <tr>
-            <th>Yash Velagapudi</th>
+            <td>Yash Velagapudi</td>
             <td>yvelagap@purdue.edu</td>
             <td>`JoshBearta#9455`</td>
             <td></td>

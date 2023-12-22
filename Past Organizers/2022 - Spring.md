@@ -25,43 +25,43 @@ Last Updated: 00/00/0000
     </thead>
     <tbody>
         <tr>
-            <th>Matthew Stanciu (President)</th>
+            <td>Matthew Stanciu (President)</td>
             <td>mstanciu@purdue.edu</td>
             <td>`hewillyeah#1703`</td>
             <td>mattbstanciu@gmail.com</td>
         </tr>
         <tr>
-            <th>Nivedha Kumar (Vice President)</th>
+            <td>Nivedha Kumar (Vice President)</td>
             <td>kumar502@purdue.edu</td>
             <td>`Nivedha#7394`</td>
             <td>to.nivedha75@gmail.com</td>
         </tr>
         <tr>
-            <th>Fenil Gala (Treasurer)</th>
+            <td>Fenil Gala (Treasurer)</td>
             <td>fgala@purdue.edu</td>
             <td>`King Leo#5724`</td>
             <td>leofenil1234@gmail.com</td>
         </tr>
         <tr>
-            <th>Mikail Khan (Lead)</th>
+            <td>Mikail Khan (Lead)</td>
             <td>khan348@purdue.edu</td>
             <td>`Fish#2121`</td>
             <td></td>
         </tr>
         <tr>
-            <th>Anish Gorentala</th>
+            <td>Anish Gorentala</td>
             <td>agorenta@purdue.edu</td>
             <td>`Corporal98#0440`</td>
             <td></td>
         </tr>
         <tr>
-            <th>Devin Qu</th>
+            <td>Devin Qu</td>
             <td>qud@purdue.edu</td>
             <td>`devinqu#6002`</td>
             <td>devinqu2002@gmail.com</td>
         </tr>
         <tr>
-            <th>Shriansh Chari</th>
+            <td>Shriansh Chari</td>
             <td>schari@purdue.edu</td>
             <td>`Tbolt#3679`</td>
             <td></td>
@@ -81,7 +81,7 @@ Last Updated: 00/00/0000
     </thead>
     <tbody>
         <tr>
-            <th>Rachel Sacdalan (Secretary, Lead)</th>
+            <td>Rachel Sacdalan (Secretary, Lead)</td>
             <td>rsacdala@purdue.edu</td>
             <td>`Oohwo#1324`</td>
             <td>rsacdalan00021@gmail.com</td>
@@ -101,31 +101,31 @@ Last Updated: 00/00/0000
     </thead>
     <tbody>
         <tr>
-            <th>Evan Wang (Lead)</th>
+            <td>Evan Wang (Lead)</td>
             <td>wangej@purdue.edu</td>
             <td>`fuzzy_happy#6644`</td>
             <td>student.e.wang@gmail.com</td>
         </tr>
         <tr>
-            <th>Ayomide Arulogun</th>
+            <td>Ayomide Arulogun</td>
             <td>zarulogu@purdue.edu</td>
             <td>`Cryliic#0972`</td>
             <td></td>
         </tr>
         <tr>
-            <th>Jiahui Huang</th>
+            <td>Jiahui Huang</td>
             <td>huan1681@purdue.edu</td>
             <td>`jia#1965`</td>
             <td>jiahuihuang208@gmail.com</td>
         </tr>
         <tr>
-            <th>Yeonseung &quot;Sean&quot; Choi</th>
+            <td>Yeonseung &quot;Sean&quot; Choi</td>
             <td>ysc@purdue.edu</td>
             <td>`534N#6075`</td>
             <td>szeanchoi@gmail.com</td>
         </tr>
         <tr>
-            <th>Yuka Nakamura</th>
+            <td>Yuka Nakamura</td>
             <td>ynakamu@purdue.edu</td>
             <td>`Yuka N.#5292`</td>
             <td>yuflower26@gmail.com</td>
@@ -145,31 +145,31 @@ Last Updated: 00/00/0000
     </thead>
     <tbody>
         <tr>
-            <th>Chi-Wei &quot;Willy&quot; Lien (Lead)</th>
+            <td>Chi-Wei &quot;Willy&quot; Lien (Lead)</td>
             <td>lien2@purdue.edu</td>
             <td>`magician3124#4265`</td>
             <td>crashingballoon@gmail.com</td>
         </tr>
         <tr>
-            <th>Lilian Zhao</th>
+            <td>Lilian Zhao</td>
             <td>zhao1268@purdue.edu</td>
             <td>`lettuce#4273`</td>
             <td></td>
         </tr>
         <tr>
-            <th>Neil Van Eikema Hommes</th>
+            <td>Neil Van Eikema Hommes</td>
             <td>nvaneike@purdue.edu</td>
             <td>`CygnusX#5667`</td>
             <td></td>
         </tr>
         <tr>
-            <th>Maz Agrawal</th>
+            <td>Maz Agrawal</td>
             <td>agraw208@purdue.edu</td>
             <td>`Maz#5985`</td>
             <td></td>
         </tr>
         <tr>
-            <th>Brennan Frank</th>
+            <td>Brennan Frank</td>
             <td>frank126@purdue.edu</td>
             <td>`__brennan`</td>
             <td></td>
