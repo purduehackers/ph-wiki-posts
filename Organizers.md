@@ -14,24 +14,108 @@ Last Updated: 00/00/0000
 -----
 # Current Semester | Fall 2023
 
-|   |   |   |   |
-|---|---|---|---|
-|Name|Name|Purdue Email|Discord|
-|Matthew Stanciu (President)|Matthew Stanciu (President)|mstanciu@purdue.edu|`hewillyeah`|
-|Anish Gorentala (Treasurer) |Anish Gorentala|agorenta@purdue.edu|`corporal98`|
-|Aneesh Pendyala|Aneesh Pendyala|apendya@purdue.edu|`syndro0`|
-|Anna Gregorova|Zuzana Gregorova|zgregoro@purdue.edu|`zuzkatheprincess`|
-|Becca Pine|Rebecca Pine|rpine@purdue.edu|`okaibee`|
-|Brennan Frank|Brennan Frank|frank126@purdue.edu|`__brennan`|
-|Evan Wang|Evan Wang|wangej@purdue.edu|`fuzzy_happy`|
-|Jiahui Huang|Jiahui Huang|huan1681@purdue.edu|`jia000`|
-|Lettuce Zhao 🥬|Lilian Zhao|zhao1268@purdue.edu|`letttttttuce`|
-|Maz Agrawal|Maz Agrawal|agraw208@purdue.edu|`maz_arin`|
-|Mikail Khan|Mikail Khan|khan348@purdue.edu|`fiiisssh`|
-|Rachel Sacdalan|Rachel Sacdalan|rsacdala@purdue.edu|`oohwo`|
-|Sean Choi|Yeonseung Choi|ysc@purdue.edu|`szean`|
-|Shriansh Chari|Shriansh Chari|schari@purdue.edu|`tbolt__`|
-|Willy Lien|Chi-Wei Lien|lien2@purdue.edu|`magician3124`|
+<table>
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Name</th>
+            <th>Purdue Email</th>
+            <th>Discord</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>Matthew Stanciu (President)</th>
+            <td>Matthew Stanciu (President)</td>
+            <td>mstanciu@purdue.edu</td>
+            <td>`hewillyeah`</td>
+        </tr>
+        <tr>
+            <th>Anish Gorentala (Treasurer)</th>
+            <td>Anish Gorentala</td>
+            <td>agorenta@purdue.edu</td>
+            <td>`corporal98`</td>
+        </tr>
+        <tr>
+            <th>Aneesh Pendyala</th>
+            <td>Aneesh Pendyala</td>
+            <td>apendya@purdue.edu</td>
+            <td>`syndro0`</td>
+        </tr>
+        <tr>
+            <th>Anna Gregorova</th>
+            <td>Zuzana Gregorova</td>
+            <td>zgregoro@purdue.edu</td>
+            <td>`zuzkatheprincess`</td>
+        </tr>
+        <tr>
+            <th>Becca Pine</th>
+            <td>Rebecca Pine</td>
+            <td>rpine@purdue.edu</td>
+            <td>`okaibee`</td>
+        </tr>
+        <tr>
+            <th>Brennan Frank</th>
+            <td>Brennan Frank</td>
+            <td>frank126@purdue.edu</td>
+            <td>`__brennan`</td>
+        </tr>
+        <tr>
+            <th>Evan Wang</th>
+            <td>Evan Wang</td>
+            <td>wangej@purdue.edu</td>
+            <td>`fuzzy_happy`</td>
+        </tr>
+        <tr>
+            <th>Jiahui Huang</th>
+            <td>Jiahui Huang</td>
+            <td>huan1681@purdue.edu</td>
+            <td>`jia000`</td>
+        </tr>
+        <tr>
+            <th>Lettuce Zhao 🥬</th>
+            <td>Lilian Zhao</td>
+            <td>zhao1268@purdue.edu</td>
+            <td>`letttttttuce`</td>
+        </tr>
+        <tr>
+            <th>Maz Agrawal</th>
+            <td>Maz Agrawal</td>
+            <td>agraw208@purdue.edu</td>
+            <td>`maz_arin`</td>
+        </tr>
+        <tr>
+            <th>Mikail Khan</th>
+            <td>Mikail Khan</td>
+            <td>khan348@purdue.edu</td>
+            <td>`fiiisssh`</td>
+        </tr>
+        <tr>
+            <th>Rachel Sacdalan</th>
+            <td>Rachel Sacdalan</td>
+            <td>rsacdala@purdue.edu</td>
+            <td>`oohwo`</td>
+        </tr>
+        <tr>
+            <th>Sean Choi</th>
+            <td>Yeonseung Choi</td>
+            <td>ysc@purdue.edu</td>
+            <td>`szean`</td>
+        </tr>
+        <tr>
+            <th>Shriansh Chari</th>
+            <td>Shriansh Chari</td>
+            <td>schari@purdue.edu</td>
+            <td>`tbolt__`</td>
+        </tr>
+        <tr>
+            <th>Willy Lien</th>
+            <td>Chi-Wei Lien</td>
+            <td>lien2@purdue.edu</td>
+            <td>`magician3124`</td>
+        </tr>
+    </tbody>
+</table>
 
 -----
 ## Previous Semesters:

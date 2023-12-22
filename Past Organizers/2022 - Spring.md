@@ -14,39 +14,168 @@ Last Updated: 00/00/0000
 # Fall 2021
 
 ## Logistics
-|   |   |   |   |
-|---|---|---|---|
-|Name|Purdue Email|Discord|Gmail|
-|Matthew Stanciu (President)|mstanciu@purdue.edu|`hewillyeah#1703`|mattbstanciu@gmail.com|
-|Nivedha Kumar (Vice President)|kumar502@purdue.edu|`Nivedha#7394`|to.nivedha75@gmail.com|
-|Fenil Gala (Treasurer)|fgala@purdue.edu|`King Leo#5724`|leofenil1234@gmail.com|
-|Mikail Khan (Lead)|khan348@purdue.edu|`Fish#2121`||
-|Anish Gorentala|agorenta@purdue.edu|`Corporal98#0440`||
-|Devin Qu|qud@purdue.edu|`devinqu#6002`|devinqu2002@gmail.com|
-|Shriansh Chari|schari@purdue.edu|`Tbolt#3679`||
+<table>
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Purdue Email</th>
+            <th>Discord</th>
+            <th>Gmail</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>Matthew Stanciu (President)</th>
+            <td>mstanciu@purdue.edu</td>
+            <td>`hewillyeah#1703`</td>
+            <td>mattbstanciu@gmail.com</td>
+        </tr>
+        <tr>
+            <th>Nivedha Kumar (Vice President)</th>
+            <td>kumar502@purdue.edu</td>
+            <td>`Nivedha#7394`</td>
+            <td>to.nivedha75@gmail.com</td>
+        </tr>
+        <tr>
+            <th>Fenil Gala (Treasurer)</th>
+            <td>fgala@purdue.edu</td>
+            <td>`King Leo#5724`</td>
+            <td>leofenil1234@gmail.com</td>
+        </tr>
+        <tr>
+            <th>Mikail Khan (Lead)</th>
+            <td>khan348@purdue.edu</td>
+            <td>`Fish#2121`</td>
+            <td></td>
+        </tr>
+        <tr>
+            <th>Anish Gorentala</th>
+            <td>agorenta@purdue.edu</td>
+            <td>`Corporal98#0440`</td>
+            <td></td>
+        </tr>
+        <tr>
+            <th>Devin Qu</th>
+            <td>qud@purdue.edu</td>
+            <td>`devinqu#6002`</td>
+            <td>devinqu2002@gmail.com</td>
+        </tr>
+        <tr>
+            <th>Shriansh Chari</th>
+            <td>schari@purdue.edu</td>
+            <td>`Tbolt#3679`</td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+
 ## PR
-|   |   |   |   |
-|---|---|---|---|
-|Name|Purdue Email|Discord|Gmail|
-|Rachel Sacdalan (Secretary, Lead)|rsacdala@purdue.edu|`Oohwo#1324`|rsacdalan00021@gmail.com|
+<table>
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Purdue Email</th>
+            <th>Discord</th>
+            <th>Gmail</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>Rachel Sacdalan (Secretary, Lead)</th>
+            <td>rsacdala@purdue.edu</td>
+            <td>`Oohwo#1324`</td>
+            <td>rsacdalan00021@gmail.com</td>
+        </tr>
+    </tbody>
+</table>
+
 ## Design
-|   |   |   |   |
-|---|---|---|---|
-|Name|Purdue Email|Discord|Gmail|
-|Evan Wang (Lead)|wangej@purdue.edu|`fuzzy_happy#6644`|student.e.wang@gmail.com|
-|Ayomide Arulogun|zarulogu@purdue.edu|`Cryliic#0972`||
-|Jiahui Huang|huan1681@purdue.edu|`jia#1965`|jiahuihuang208@gmail.com|
-|Yeonseung "Sean" Choi|ysc@purdue.edu|`534N#6075`|szeanchoi@gmail.com|
-|Yuka Nakamura|ynakamu@purdue.edu|`Yuka N.#5292`|yuflower26@gmail.com|
+<table>
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Purdue Email</th>
+            <th>Discord</th>
+            <th>Gmail</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>Evan Wang (Lead)</th>
+            <td>wangej@purdue.edu</td>
+            <td>`fuzzy_happy#6644`</td>
+            <td>student.e.wang@gmail.com</td>
+        </tr>
+        <tr>
+            <th>Ayomide Arulogun</th>
+            <td>zarulogu@purdue.edu</td>
+            <td>`Cryliic#0972`</td>
+            <td></td>
+        </tr>
+        <tr>
+            <th>Jiahui Huang</th>
+            <td>huan1681@purdue.edu</td>
+            <td>`jia#1965`</td>
+            <td>jiahuihuang208@gmail.com</td>
+        </tr>
+        <tr>
+            <th>Yeonseung &quot;Sean&quot; Choi</th>
+            <td>ysc@purdue.edu</td>
+            <td>`534N#6075`</td>
+            <td>szeanchoi@gmail.com</td>
+        </tr>
+        <tr>
+            <th>Yuka Nakamura</th>
+            <td>ynakamu@purdue.edu</td>
+            <td>`Yuka N.#5292`</td>
+            <td>yuflower26@gmail.com</td>
+        </tr>
+    </tbody>
+</table>
+
 ## Engineering
-|   |   |   |   |
-|---|---|---|---|
-|Name|Purdue Email|Discord|Gmail|
-|Chi-Wei "Willy" Lien (Lead)|lien2@purdue.edu|`magician3124#4265`|crashingballoon@gmail.com|
-|Lilian Zhao|zhao1268@purdue.edu|`lettuce#4273`||
-|Neil Van Eikema Hommes|nvaneike@purdue.edu|`CygnusX#5667`||
-|Maz Agrawal|agraw208@purdue.edu|`Maz#5985`||
-|Brennan Frank|frank126@purdue.edu|`__brennan`||
+<table>
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Purdue Email</th>
+            <th>Discord</th>
+            <th>Gmail</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>Chi-Wei &quot;Willy&quot; Lien (Lead)</th>
+            <td>lien2@purdue.edu</td>
+            <td>`magician3124#4265`</td>
+            <td>crashingballoon@gmail.com</td>
+        </tr>
+        <tr>
+            <th>Lilian Zhao</th>
+            <td>zhao1268@purdue.edu</td>
+            <td>`lettuce#4273`</td>
+            <td></td>
+        </tr>
+        <tr>
+            <th>Neil Van Eikema Hommes</th>
+            <td>nvaneike@purdue.edu</td>
+            <td>`CygnusX#5667`</td>
+            <td></td>
+        </tr>
+        <tr>
+            <th>Maz Agrawal</th>
+            <td>agraw208@purdue.edu</td>
+            <td>`Maz#5985`</td>
+            <td></td>
+        </tr>
+        <tr>
+            <th>Brennan Frank</th>
+            <td>frank126@purdue.edu</td>
+            <td>`__brennan`</td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
 
 -----
 ## Other Semesters:
