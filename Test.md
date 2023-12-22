@@ -7,12 +7,15 @@ authors:
 archived: false
 ---
 <table>
+  <thead>
     <tr>
         <td>Name</td>
         <td>Purdue Email</td>
         <td>Discord</td>
         <td>Gmail</td>
     </tr>
+  </thead>
+  <tbody>
     <tr>
         <td>Matthew Stanciu (President)</td>
         <td>mstanciu@purdue.edu</td>
@@ -55,4 +58,5 @@ archived: false
         <td>`Tbolt#3679`</td>
         <td></td>
     </tr>
+  </tbody>
 </table>
