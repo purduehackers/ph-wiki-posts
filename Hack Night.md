@@ -1,6 +1,6 @@
 ---
 tags:
-  - hack_night
+  - hack-night
   - logistics
 authors:
   - oohwo

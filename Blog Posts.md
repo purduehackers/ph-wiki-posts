@@ -2,7 +2,7 @@
 tags:
   - marketing
   - events
-  - hack_night
+  - hack-night
   - community
   - engineering
 authors:

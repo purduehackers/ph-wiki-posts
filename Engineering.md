@@ -2,7 +2,7 @@
 tags:
   - engineering
   - community
-  - hack_night
+  - hack-night
   - workshops
   - discord
 authors:

@@ -2,7 +2,7 @@
 tags:
   - logistics
   - workshops
-  - hack_night
+  - hack-night
 authors:
   - oohwo
 archived: true

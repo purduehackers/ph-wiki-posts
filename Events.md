@@ -3,8 +3,8 @@ tags:
   - core
   - events
   - workshops
-  - hack_night
-  - hammer_wars
+  - hack-night
+  - hammer-wars
 authors:
   - oohwo
 archived: false
