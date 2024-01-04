@@ -10,9 +10,6 @@ authors:
 archived: false
 ---
 # Overview
-Last Updated: 00/00/0000
-(Consult Willy / Matthew)
-
 All of our magical creations are on our [GitHub](https://github.com/purduehackers) ✨
 
 -----

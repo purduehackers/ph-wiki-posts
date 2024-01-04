@@ -10,8 +10,6 @@ authors:
 archived: false
 ---
 # Overview
-Last Updated: 00/00/0000
-
 -----
 # Past Events
 - Check out our past events on our [events website](https://events.purduehackers.com).

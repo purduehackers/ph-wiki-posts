@@ -7,8 +7,6 @@ authors:
 archived: true
 ---
 # Overview
-Last Updated: 00/00/0000
-
 -----
 # How to Create a Poster
 (Steal from Jiahui / Becca)

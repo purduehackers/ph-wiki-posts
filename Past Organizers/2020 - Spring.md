@@ -6,7 +6,6 @@ authors:
 archived: false
 ---
 # Overview
-Last Updated: 00/00/0000
 
 ## WTF is an Organizer❓
 
