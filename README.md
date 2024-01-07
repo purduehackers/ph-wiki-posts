@@ -31,7 +31,21 @@ yarn run dev
 
 ## Deployment
 
-| Tech | Host |
-| ------ | ------ |
-| NextJS | [Vercel](https://vercel.com/) |
-| MongoDB | [MongoDB Atlas](https://www.mongodb.com/atlas/database) |
+<table>
+    <thead>
+        <tr>
+            <th>Tech</th>
+            <th>Host</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>NextJS</td>
+            <td>[Vercel](https://vercel.com/)</td>
+        </tr>
+        <tr>
+            <td>MongoDB</td>
+            <td>[MongoDB Atlas](https://www.mongodb.com/atlas/database)</td>
+        </tr>
+    </tbody>
+</table>
