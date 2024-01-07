@@ -21,7 +21,7 @@ Purdue Hackers Wiki is open source, check it out in our [Github Repo](https://gi
 
 ## Installation
 
-Install the dependencies and devDependencies and start the server.
+Install the dependencies and run the web app.
 
 ```sh
 cd ph-wiki-site 
