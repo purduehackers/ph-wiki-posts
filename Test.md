@@ -4,7 +4,7 @@ tags:
   - organizers
 authors:
   - oohwo
-archived: false
+archived: true
 ---
 <table>
   <thead>
