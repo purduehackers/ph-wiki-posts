@@ -11,7 +11,7 @@ archived: false
 ## WTF is an Organizer❓
 
 -----
-# Current Semester | Fall 2023
+# Current Semester | Spring 2024
 
 <table>
     <thead>
