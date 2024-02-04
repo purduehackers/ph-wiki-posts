@@ -13,7 +13,7 @@ archived: false
             <th>Name</th>
             <th>Website</th>
             <th>Join Date</th>
-            <th>Sub-Team</th>
+            <th>Projects</th>
             <th>Notes</th>
         </tr>
     </thead>
@@ -100,7 +100,7 @@ archived: false
             <td><a href="https://www.linkedin.com/in/mazagrawal/" target="_blank">LinkedIn</a></td>
             <td>Fall 2022</td>
             <td>Badges</td>
-            <td>Removed Spring 2024</td>
+            <td></td>
         </tr>
         <tr>
             <td>Mikail Khan </td>
