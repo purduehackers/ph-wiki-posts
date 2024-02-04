@@ -158,5 +158,5 @@ archived: false
             <td>Hack Night</td>
             <td></td>
         </tr>
-    <tbody>
+    </tbody>
 </table>
