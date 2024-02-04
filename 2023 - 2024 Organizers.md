@@ -2,7 +2,7 @@
 tags:
   - organizers
 authors:
-  - oohwo
+  - oohwo, chi-wei-lien
 archived: false
 ---
 # Fall 2023 - Spring 2024
@@ -14,7 +14,6 @@ archived: false
             <th>Website</th>
             <th>Join Date</th>
             <th>Sub-Team</th>
-            <th>Involvement</th>
             <th>Notes</th>
         </tr>
     </thead>
@@ -23,7 +22,6 @@ archived: false
         <td><a href="https://www.matthewstanciu.com" target="_blank">matthewstanciu.com</a></td>
         <td>Fall 2021</td>
         <td>Anything Goes</td>
-        <td>Logistics</td>
         <td>President</td>
     </tr>
     <tr>
@@ -31,7 +29,6 @@ archived: false
         <td><a href="https://www.linkedin.com/in/anish-g/" target="_blank">LinkedIn</a></td>
         <td>Fall 2022</td>
         <td>Hack Night</td>
-        <td>Logistics</td>
         <td>Treasurer</td>
     </tr>
     <tr>
@@ -39,7 +36,6 @@ archived: false
         <td><a href="https://www.linkedin.com/in/aneeshpendyala/" target="_blank">LinkedIn</a></td>
         <td>Fall 2023</td>
         <td>Fundraising, Hack Night</td>
-        <td>Logistics</td>
         <td></td>
     </tr>
     <tr>
@@ -47,7 +43,6 @@ archived: false
         <td><a href="https://www.linkedin.com/in/zuzanagrego/" target="_blank">LinkedIn</a></td>
         <td>Fall 2023</td>
         <td>Manager</td>
-        <td>Logistics</td>
         <td></td>
     </tr>
     <tr>
@@ -55,7 +50,6 @@ archived: false
         <td><a href="https://www.linkedin.com/in/ayden-bridges/" target="_blank">LinkedIn</a></td>
         <td>Fall 2023</td>
         <td>Passports, Special Projects</td>
-        <td>Logistics</td>
         <td></td>
     </tr>
     <tr>
@@ -63,7 +57,6 @@ archived: false
         <td><a href="https://www.linkedin.com/in/rebecca-pine-b0a3191a4/" target="_blank">LinkedIn</a></td>
         <td>Fall 2023</td>
         <td>Brand Design, La Creatura</td>
-        <td>Design</td>
         <td></td>
     </tr>
     <tr>
@@ -71,7 +64,6 @@ archived: false
         <td></td>
         <td>Fall 2022</td>
         <td>Hack Night</td>
-        <td>Engineering</td>
         <td></td>
     </tr>
     <tr>
@@ -79,7 +71,6 @@ archived: false
         <td><a href="https://www.loophole.engineer" target="_blank">loophole.engineer</a></td>
         <td>Fall 2021</td>
         <td>Wiki, Website, Engineering</td>
-        <td>Engineering</td>
         <td></td>
     </tr>
     <tr>
@@ -87,7 +78,6 @@ archived: false
         <td><a href="https://www.jaddenki.com" target="_blank">jaddenki.com</a></td>
         <td>Spring 2024</td>
         <td>Head of Social Media, La Creatura</td>
-        <td>PR</td>
         <td></td>
     </tr>
     <tr>
@@ -95,7 +85,6 @@ archived: false
         <td><a href="https://www.linkedin.com/in/jiahui--huang/" target="_blank">LinkedIn</a></td>
         <td>Fall 2022</td>
         <td>Brand Design, La Creatura</td>
-        <td>Design</td>
         <td></td>
     </tr>
     <tr>
@@ -103,7 +92,6 @@ archived: false
         <td><a href="https://lilianzlettuce.github.io" target="_blank">lilianzlettuce.github.io</a></td>
         <td>Fall 2022</td>
         <td>Website, Passports</td>
-        <td>Engineering</td>
         <td></td>
     </tr>
     <tr>
@@ -111,7 +99,6 @@ archived: false
         <td><a href="https://www.linkedin.com/in/mazagrawal/" target="_blank">LinkedIn</a></td>
         <td>Fall 2022</td>
         <td>Badges</td>
-        <td>Engineering</td>
         <td>Removed Spring 2024</td>
     </tr>
     <tr>
@@ -119,14 +106,12 @@ archived: false
         <td><a href="https://mikail-khan.com" target="_blank">mikail-khan.com</a></td>
         <td>Spring 2022</td>
         <td>Workshops, Commit Overflow</td>
-        <td>Logistics</td>
         <td></td>
     </tr>
     <tr>
         <td>Mukul Agarwal</td>
         <td><a href="https://www.linkedin.com/in/agarw-mukul/" target="_blank">LinkedIn</a></td>
         <td>Fall 2023</td>
-        <td>Fundraising</td>
         <td>Fundraising</td>
         <td></td>
     </tr>
@@ -135,7 +120,6 @@ archived: false
         <td><a href="https://neilhommes.xyz" target="_blank">neilhommes.xyz</a></td>
         <td>Fall 2022</td>
         <td>Community Manager, Discord Bot</td>
-        <td>Engineering</td>
         <td></td>
     </tr>
     <tr>
@@ -143,7 +127,6 @@ archived: false
         <td><a href="https://www.linkedin.com/in/rsacdalan02/" target="_blank">LinkedIn</a></td>
         <td>Fall 2020</td>
         <td>Hack Night, Marketing, Time-Traveling, Wiki</td>
-        <td>PR</td>
         <td></td>
     </tr>
     <tr>
@@ -151,7 +134,6 @@ archived: false
         <td><a href="http://szeanchoi.com/" target="_blank">szeanchoi.com</a></td>
         <td>Spring 2022</td>
         <td>Badges, Posters</td>
-        <td>Design</td>
         <td></td>
     </tr>
     <tr>
@@ -159,7 +141,6 @@ archived: false
         <td><a href="https://www.linkedin.com/in/shriansh-chari/" target="_blank">LinkedIn</a></td>
         <td>Fall 2022</td>
         <td>Community, Wiki</td>
-        <td>Logistics</td>
         <td></td>
     </tr>
     <tr>
@@ -167,7 +148,6 @@ archived: false
         <td><a href="https://www.linkedin.com/in/timusic/" target="_blank">LinkedIn</a></td>
         <td>Fall 2023</td>
         <td>Fundraising, Hack Night</td>
-        <td>Logistics</td>
         <td></td>
     </tr>
     <tr>
@@ -175,7 +155,6 @@ archived: false
         <td><a href="https://www.linkedin.com/in/zacharykirkeby/" target="_blank">LinkedIn</a></td>
         <td>Spring 2024</td>
         <td>Hack Night</td>
-        <td>Logistics</td>
         <td></td>
     </tr>
 </table>
