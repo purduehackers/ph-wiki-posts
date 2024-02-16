@@ -25,6 +25,7 @@ jobs:
         APP_ID: ${{ secrets.APP_ID }}
         INSTALLATION_ID: ${{ secrets.APP_INSTALLATION_ID }}
         MONGODB_URI: ${{ secrets.MONGODB_URI }}
+        NODE_ENV: production
       run: |
         cd ./ph-wiki-post-loader
         yarn install
